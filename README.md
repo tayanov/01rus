@@ -1,4 +1,4 @@
-# 01rus
+# 01rus Emglish
 Custom component for monitoring traffic and ballance one of the small providers
 Example config:
 
@@ -10,7 +10,7 @@ sensor:
     
 Thanks   @zvldz https://github.com/zvldz  
     
-
+# 01rus Русский
 Это кастомный компонент Home Assistant для получения информации о траффике и балансе моего провайдера.
 Можно использовать как шаблон для написания аналогичного компонента для ваших целей. По факту тут авторизация и парсинг страницы.
 
